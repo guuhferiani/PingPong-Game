@@ -53,6 +53,6 @@ function update() {
 
 
 # Screenshot
-Here we have project screenshot :
+Aqui temos a captura de tela do projeto: :
 
 ![screenshot](screenshot.jpg)
